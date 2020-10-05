@@ -1,0 +1,14 @@
+/Users/oleksandr/Projects/calc/calc/bin/Debug/netstandard2.0/calc.deps.json
+/Users/oleksandr/Projects/calc/calc/bin/Debug/netstandard2.0/calc.dll
+/Users/oleksandr/Projects/calc/calc/bin/Debug/netstandard2.0/ref/calc.dll
+/Users/oleksandr/Projects/calc/calc/bin/Debug/netstandard2.0/calc.pdb
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/calc.csprojAssemblyReference.cache
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/calc.AssemblyInfoInputs.cache
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/calc.AssemblyInfo.cs
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/calc.csproj.CoreCompileInputs.cache
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/calc.dll
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/ref/calc.dll
+/Users/oleksandr/Projects/calc/calc/obj/Debug/netstandard2.0/calc.pdb

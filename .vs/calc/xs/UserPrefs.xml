@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{933D3E47-2008-45DF-8BC6-6B7B88EA01E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.calc.Android FirstBuild="True" PreferredExecutionTarget="Android.Nexus_5X_API_29_x86" />
+  <MonoDevelop.Ide.ItemProperties.calc FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="calc.Android/MainActivity.cs">
+    <Files>
+      <File FileName="calc.Android/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="calc" expanded="True">
+            <Node name="calc.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.calc.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
